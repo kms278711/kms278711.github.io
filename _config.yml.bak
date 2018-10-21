@@ -11,7 +11,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # Author settings
 author: Minseok Kim # add your name
 author-pic: my-face.jpg
-about-author: My name is Minseok Kim. Welcome to my blog!
+about-author: My name is Minseok Kim. &nbsp Welcome to my blog!
 
 # Contact links
 email: kms278711@naver.com # Add your Email address
