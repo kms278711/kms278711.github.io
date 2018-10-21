@@ -13,7 +13,7 @@ author: # Add name author (optional)
 
 #### [adam-blog](https://github.com/artemsheludko/adam-blog)
 
-jykyllthemes.org에서 괜찮은 테마를 찾던 중 가장 마음에 들었던 심플한 테마였습니다.
+jekyllthemes.org에서 괜찮은 테마를 찾던 중 가장 마음에 들었던 심플한 테마였습니다.
 
 ### 사진
 
