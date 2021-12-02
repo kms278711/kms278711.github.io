@@ -1,38 +1,37 @@
-# Adam Blog is a minimal clear theme for Jekyll
+## Welcome to GitHub Pages
 
-![Adam Blog - Imac](https://github.com/artemsheludko/adam-blog/blob/master/assets/img/adam-blog-imac.jpg?raw=true)
+You can use the [editor on GitHub](https://github.com/nothinking/nothinking.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-## Demo
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-Check the theme in action [Demo](https://artemsheludko.github.io/adam-blog/)
+### Markdown
 
-The main page would look like this:
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-![Main page preview](https://github.com/artemsheludko/adam-blog/blob/master/assets/img/adam-home-page.jpg?raw=true)
+```markdown
+Syntax highlighted code block
 
-The post page would look like this:
+# Header 1
+## Header 2
+### Header 3
 
-![Post page preview](https://github.com/artemsheludko/adam-blog/blob/master/assets/img/adam-post-example.jpg?raw=true)
+- Bulleted
+- List
 
-## Features
+1. Numbered
+2. List
 
-- [Google Fonts](https://fonts.google.com/)
-- [Font Awesome](http://fontawesome.io/)
-- [Disqus](https://disqus.com/)
-- [MailChimp](https://mailchimp.com/)
-- [Analytics](https://analytics.google.com/analytics/web/)
-- [Search](https://github.com/christian-fei/Simple-Jekyll-Search)
+**Bold** and _Italic_ and `Code` text
 
-## Installation:
+[Link](url) and ![Image](src)
+```
 
-Fork the ``master`` branch and delete ``gh-pages`` branch in it. This is important because ``gh-pages`` branch is used here only to host the blog. You should be using the master branch as the source and create a fresh ``gh-pages`` branch.
+For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-## License
+### Jekyll Themes
 
-GNU General Public License v3.0
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nothinking/nothinking.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-## Donate
+### Support or Contact
 
-<p>If you want to show your appreciation, buy me one <a href="https://www.buymeacoffee.com/artemsheludko" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a> ! Every five cups of coffee and a new theme for Jekyll is ready 😋</p>
-<p>Either way, your support is a way to thank me ❤️</p>
-<p align="center"><b>Thank you for your support!</b></p>
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
